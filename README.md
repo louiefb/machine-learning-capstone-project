@@ -3,7 +3,7 @@ Three Generations Seeking Romance: A Data Science Approach to Profiling Online D
 
 Hi! This is my capstone project for my course in Machine Learning Fundamentals for Codecademy.
 
-DISCLAIMER
+Disclaimer
 ==========
 The associated "profiles.csv" is a heavily trimmed down version of the original OKCupid dataset that was used in the Summary presentation. This was done to meet the file size requirements for uploading files in this repository, and for demonstration purposes.
 
