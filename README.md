@@ -3,6 +3,10 @@ Three Generations Seeking Romance: A Data Science Approach to Profiling Online D
 
 Hi! This is my capstone project for my course in Machine Learning Fundamentals for Codecademy.
 
+Requirements
+============
+The OKCupid dataset "profiles.csv" must be present in the same path as the .py file.
+
 Problem Statements
 ==================
 1. Can your dating profile predict your age?
